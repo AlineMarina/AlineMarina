@@ -2,7 +2,7 @@
 **`Desenvolvedora Front-end`** 
 <br>
 ---
-### 🤖 Linguagem e Tecnologias
+### 🤖 Linguagens 
  <img
  aling="left"
  alt ="Css"
@@ -21,28 +21,23 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-origi
 />
 <img 
 aling="left"
- alt ="VisualCode"
- title = "VisualCode"
- width = "30px"
- style = "paddign-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
-/>
-<img 
-aling="left"
  alt ="JavaScript"
  title = "JavaScript"
  width = "30px"
  style = "paddign-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
 <img 
 aling="left"
- alt ="Photoshop"
- title = "Photoshop"
+ alt ="Java"
+ title = "Java"
  width = "30px"
  style = "paddign-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
+<br>
+### 🖥️ Programas 
 <img
 aling="left"
  alt ="Figma"
@@ -53,12 +48,28 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-origi
 />
 <img 
 aling="left"
- alt ="Java"
- title = "Java"
+ alt ="Photoshop"
+ title = "Photoshop"
  width = "30px"
  style = "paddign-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" 
 />
+<img 
+aling="left"
+ alt ="VisualCode"
+ title = "VisualCode"
+ width = "30px"
+ style = "paddign-right: 10px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
+<img
+aling="left"
+alt ="IntelliJ"
+title = "IntelliJ"
+width = "30px"
+style= "padding-right: 10px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
+ />
 <br>
 <br>
 ### 📊 Estatísticas
