@@ -5,13 +5,12 @@
 <p> Uma designer de moda em transição de carreira para a área de tecnologia.
 Aqui você encontra projetos desenvolvidos com base nos meus estudos.
 No meu LinkedIn, compartilho um diário com os processos de cada projeto, cursos realizados, desafios e evolução.
-Caso deseje acessar e saber mais: </p> <br>
- <p
+Caso deseje acessar e saber mais: </p> 
+  <p align="left">
   <a href="https://www.linkedin.com/in/alinemarina/" target="_blank">
-  <img 
-   align="center"
-   src="https://img.shields.io/badge/-Clique%20aqui-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+    Clique aqui
+  </a>
+</p>
 </p>
 <br><br>
 ### 🤖 Linguagens 
