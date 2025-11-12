@@ -1,5 +1,6 @@
 # 👩🏻‍💻 Aline Marina 
-**`Desenvolvedora Front-end e Designer`** 
+
+**`Desenvolvedora Front-end`** e  **`Designer`**
 <br>
 ----
 <p> Uma designer de moda em transição de carreira para a área de tecnologia.
@@ -12,9 +13,9 @@ Caso deseje acessar e saber mais: </p>
   </a>
 </p>
 </p>
-<br><br>
-### 🤖 Linguagens 
-<br><br>
+<br>
+
+### 🤖 Linguagens e Tecnologias
  <img
  align="left"
  alt ="Css"
@@ -41,7 +42,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 />
 <br><br>
 ### 🖥️ Programas 
-<br>
 <img
 align="left"
  alt ="Figma"
@@ -76,6 +76,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij
  />
 <br>
 <br>
+
 ### 📊 Estatísticas
 <br>
 <p>
